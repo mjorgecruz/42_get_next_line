@@ -1,7 +1,7 @@
 # 42_get_next_line
 
-This project is about programming a function that returns a line read from a file descriptor.
-It is the first project from the [Common Core curriculum](https://42.fr/en/the-program/software-engineer-degree/) at 42 where memory leaks are an issue. It is a major leap into the basics of C programming.
+This project is about programming a function that returns a line read from a file descriptor.</br>
+It is the first project from the [Common Core curriculum](https://42.fr/en/the-program/software-engineer-degree/) at 42 where memory leaks are an issue, and it is, therefore, a major leap into the basics of C programming.
 
 ## How to use
 
