@@ -10,12 +10,7 @@ It is the first project from the [Common Core curriculum](https://42.fr/en/the-p
     git clone git@github.com:mjorgecruz/42_get_next_line.git
     ```
 
-2. Go inside project directory and run `make`
-    ```bash
-    cd 42_get_next_line
-    make
-    ```
-3. To use the library in your code, `#include` the following header
+2. To use the library in your code, `#include` the following header
     ```c
     #include "get_next_line.h"
     ```
